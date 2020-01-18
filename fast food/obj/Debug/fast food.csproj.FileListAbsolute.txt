@@ -1,0 +1,23 @@
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\bin\Debug\fast food.exe.config
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\bin\Debug\fast food.exe
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\bin\Debug\fast food.pdb
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\obj\Debug\fast food.csprojResolveAssemblyReference.cache
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\obj\Debug\fast_food.Form1.resources
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\obj\Debug\fast_food.Form2.resources
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\obj\Debug\fast_food.Properties.Resources.resources
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\obj\Debug\fast food.csproj.GenerateResource.Cache
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\obj\Debug\fast food.exe
+c:\users\payal\documents\visual studio 2015\Projects\fast food\fast food\obj\Debug\fast food.pdb
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\bin\Debug\fast food.exe.config
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast food.exe
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast food.pdb
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\bin\Debug\fast food.exe
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\bin\Debug\fast food.pdb
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast food.csprojResolveAssemblyReference.cache
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast_food.Form1.resources
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast_food.Form2.resources
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast_food.Properties.Resources.resources
+C:\Users\Binod Dangal\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast food.csproj.GenerateResource.Cache
+C:\Users\Naina Chauhan\Documents\Visual Studio 2015\Projects\fast food\fast food\bin\Debug\fast food.exe.config
+C:\Users\Naina Chauhan\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast food.exe
+C:\Users\Naina Chauhan\Documents\Visual Studio 2015\Projects\fast food\fast food\obj\Debug\fast food.pdb
